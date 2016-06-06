@@ -18,7 +18,7 @@ public class Main {
 
         System.out.println(json.name);
 //        System.out.println(json.surname);
-        System.out.println(json.phones[0]+" "+json.phones[1]);
+//        System.out.println(json.phones[0]+" "+json.phones[1]);
         System.out.println(json.sites[0]+" "+json.sites[1]);
         System.out.println(json.address.country);
         System.out.println(json.address.city);
